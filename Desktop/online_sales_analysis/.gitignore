@@ -1,9 +1,17 @@
-# Ignore virtual environments
-.venv/
-
-# Ignore IDE settings
+*.exe
+*.lnk
+*.png
+*.zip
+.VirtualBox/
+.android/
+.bash_history
+.git-for-windows-updater
+.gitconfig
+.lesshst
+.ssh/
 .vscode/
-
-# Ignore system files
-.DS_Store
-Thumbs.db
+AppData/
+Contacts/
+Downloads/
+Pictures/
+Videos/
