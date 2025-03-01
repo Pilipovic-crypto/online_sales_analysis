@@ -1,0 +1,27 @@
+# Ignore system files and folders
+.VirtualBox/
+.android/
+.bash_history
+.git-for-windows-updater
+.gitconfig
+.lesshst
+.ssh/
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+my-first-repo/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
